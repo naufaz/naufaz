@@ -1,4 +1,4 @@
-### Hi there! I'm Naufal 👋  
+### Hi there! I'm Naufaz 👋  
 
 A beginner programmer who loves to create and share projects about web and mobile technology! Lately I've enjoyed learning JavaScript and Kotlin as the main language in creating some projects.  
   
