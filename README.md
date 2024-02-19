@@ -24,8 +24,11 @@ A beginner programmer who loves to create and share projects about web and mobil
 <a href="https://github.com/naufaz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufaz&layout=compact&langs_count=8&theme=algolia"/>
-   
+</a>
+</p>
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naufaz&theme=algolia)](https://git.io/streak-stats)
+
 
 ---
 ### Reach me on
