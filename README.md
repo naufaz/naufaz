@@ -2,7 +2,7 @@
 
 A beginner programmer who loves to create and share projects about web and mobile technology! Lately I've enjoyed learning JavaScript and Kotlin as the main language in creating some projects.  
   
-- 🔭 I’m currently studying at Universitas Terbuka with an Information System major
+- 🔭 I’m currently studying with an Information System major
 - 🌱 I’m currently learning about Kotlin in the Bangkit program
 - 🎯 As the next main target I going to focus on Techpreneurs
 
