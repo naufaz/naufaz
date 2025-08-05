@@ -1,10 +1,5 @@
-### Hi there! I'm Naufaz 👋  
-
-A beginner programmer who loves to create and share projects about web and mobile technology! Lately I've enjoyed learning JavaScript and Kotlin as the main language in creating some projects.  
-  
-- 🔭 I'm currently studying bachelor's degree in Information Systems major
-- 🌱 I’m currently learning about Kotlin in the Bangkit program
-- 🎯 As the next main target I going to focus on Techpreneurs
+### Hi there! I'm Naufaz 👋
+Information Systems graduate passionate about technology and business. Currently exploring opportunities in Product Management, Business Analysis, and Tech Entrepreneurship to create impactful digital solutions.
 
 ---
 ### Tech Stack
